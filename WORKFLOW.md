@@ -282,10 +282,3 @@ Smart Storage Lockers/
 5. ✅ Browse and reserve lockers
 6. ✅ Manage reservations
 
-## Support
-
-For issues or questions:
-1. Check troubleshooting section
-2. Review Django/React logs
-3. Verify database connection
-4. Ensure all dependencies installed
