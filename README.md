@@ -333,13 +333,10 @@ See [PROBLEMS_AND_SOLUTIONS.md](PROBLEMS_AND_SOLUTIONS.md) for more details.
 - Add tests for new features
 - Update documentation
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work*
+- **Your Name** - Roosso P
 
 ## 🙏 Acknowledgments
 
@@ -348,21 +345,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Tailwind CSS community
 - PostgreSQL community
 
-## 📞 Support
-
-For support, email support@example.com or open an issue in the repository.
-
-## 🗺️ Roadmap
-
-- [ ] Email notifications for reservations
-- [ ] QR code generation for locker access
-- [ ] Mobile app (React Native)
-- [ ] Payment integration
-- [ ] Multi-language support
-- [ ] Advanced analytics dashboard
-- [ ] Locker size variants
-- [ ] Automated locker assignment
-
----
-
-**Made with ❤️ using Django and React**
